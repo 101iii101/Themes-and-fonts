@@ -1,0 +1,12 @@
+{
+    "name": "CustomFont",
+    "version": "1.0",
+    "author": "YourName",
+    "description": "A simple font changer for Discord",
+    "theme": {
+        "fonts": {
+            "primary": "https://fonts.googleapis.com/css2?family=Orbitron&display=swap",
+            "secondary": "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
+        }
+    }
+}
